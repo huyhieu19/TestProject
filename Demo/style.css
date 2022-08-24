@@ -1,0 +1,19 @@
+.container .cl_link{
+    color: blue;
+}
+.container .title{
+    font-weight: bold;
+    font-size: 30px;
+}
+.container .gia{
+    color: green;
+    font-weight: bold;
+}
+.cl_button{
+    background-color: yellow;
+    font-size: 15px;
+    border-radius: 30px;
+    width: 160px;
+    height: 40px;
+    margin-right: 30px;
+}
